@@ -71,12 +71,12 @@ wa = WaveletAnalysis(data=x, wavelet=Ricker(), dt=dt)
 ### Installation ###
 
 ```sh
-pip install git+https://github.com/aaren/wavelets
+pip install git+https://github.com/rajatsaxena/wavelets
 ```
 
 or install from a local copy:
 ```sh
-git clone https://github.com/aaren/wavelets.git
+git clone https://github.com/rajatsaxena/wavelets.git
 cd wavelets
 pip install -r requirements.txt
 python setup.py install
